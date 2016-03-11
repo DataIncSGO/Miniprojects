@@ -1,0 +1,100 @@
+["communes of the yonne department", "france"]	0.06851956783485441
+["communes of the yonne department", "departments of france"]	0.06841913983633724
+["communes of the pyr\u00e9n\u00e9es-atlantiques department", "france"]	0.06835924238181121
+["communes of the yonne department", "yonne"]	0.06830510902166947
+["communes of the yonne department", "communes of france"]	0.06830118748908552
+["list of cities in illinois", "illinois"]	0.06829846618562839
+["communes of the pyr\u00e9n\u00e9es-atlantiques department", "departments of france"]	0.06827537431921973
+["communes of the pyr\u00e9n\u00e9es-atlantiques department", "pyr\u00e9n\u00e9es-atlantiques"]	0.06821892543858273
+["communes of the pyr\u00e9n\u00e9es-atlantiques department", "commune in france"]	0.06817226623738824
+["communes of the allier department", "france"]	0.06762580767402722
+["list of cities in illinois", "united states"]	0.06762339868092959
+["communes of the vend\u00e9e department", "france"]	0.06761742402879362
+["communes of the allier department", "allier"]	0.06746164456866467
+["communes of the vend\u00e9e department", "pays de la loire"]	0.06745869387006344
+["communes of the allier department", "departments of france"]	0.06740052575012745
+["communes of the vend\u00e9e department", "communes of france"]	0.0672722658312864
+["communes of the vend\u00e9e department", "vend\u00e9e"]	0.06726354971518773
+["communes of the allier department", "communes of france"]	0.06721506580947463
+["list of cities in illinois", "city"]	0.06584815925790612
+["list of cities in indiana", "indiana"]	0.065159433226787
+["communes of the mayenne department", "france"]	0.06467249833618108
+["communes of the mayenne department", "pays de la loire"]	0.06451721883307548
+["list of cities in indiana", "united states"]	0.06445019618167208
+["communes of the mayenne department", "communes of france"]	0.06431593058830896
+["communes of the mayenne department", "mayenne"]	0.06430651970933286
+["dolj county", "romania"]	0.06141079772579187
+["communes of the aisne department", "france"]	0.0611947344388581
+["communes of the aisne department", "departments of france"]	0.06113788156950523
+["communes of the aisne department", "regions of france"]	0.061057371801495466
+["communes of the aisne department", "aisne"]	0.061054249923373584
+["communes of the aisne department", "communes of france"]	0.061052029921153585
+["communes of the aisne department", "picardie"]	0.0610489080430317
+["communes of the pas-de-calais department", "france"]	0.06091641970444508
+["list of cities in iowa", "iowa"]	0.06091236107929898
+["communes of the pas-de-calais department", "nord-pas-de-calais"]	0.060814489888229545
+["communes of the pas-de-calais department", "departments of france"]	0.060814489888229545
+["communes of the pas-de-calais department", "pas-de-calais"]	0.060808632754552866
+["communes of the pas-de-calais department", "communes of france"]	0.060756652988287384
+["communes of the pas-de-calais department", "regions of france"]	0.06069689575205956
+["list of cities in iowa", "united states"]	0.060629877442653524
+["list of cities in iowa", "city"]	0.06054724230778424
+["communes of the ard\u00e8che department", "ard\u00e8che"]	0.0605329292892851
+["communes of the gironde department", "france"]	0.0605076131732997
+["communes of the gironde department", "departments of france"]	0.0603791331890631
+["communes of the gironde department", "aquitaine"]	0.0603791331890631
+["communes of the ard\u00e8che department", "france"]	0.06030908114994401
+["communes of the gironde department", "regions of france"]	0.0602875362157457
+["communes of the gironde department", "gironde"]	0.06028288137238118
+["communes of the gironde department", "communes of france"]	0.060279571261544186
+["communes of the calvados department", "france"]	0.060041339327630866
+["communes of the calvados department", "calvados (department)"]	0.0599783828934833
+["communes of the calvados department", "basse-normandie"]	0.059972227153255536
+["communes of the calvados department", "regions of france"]	0.05993251463431864
+["communes of the calvados department", "departments of france"]	0.05992635889409088
+["communes of the calvados department", "communes of france"]	0.05992635889409088
+["communes of the sarthe department", "france"]	0.05923343810363756
+["communes of the sarthe department", "pays de la loire"]	0.05911246217703504
+["communes of the sarthe department", "departments of france"]	0.05911246217703504
+["list of cities in oklahoma", "united states"]	0.05910910807650527
+["list of cities in oklahoma", "oklahoma"]	0.05908799410327779
+["communes of the sarthe department", "regions of france"]	0.0589733852333846
+["communes of the sarthe department", "sarthe"]	0.058966742259989706
+["communes of the sarthe department", "communes of france"]	0.05896201836779778
+["communes of the ard\u00e8che department", "departments of france"]	0.058312065031181935
+["communes of the ain department", "france"]	0.05819434955251755
+["communes of the vaucluse department", "france"]	0.0581852352766406
+["communes of the ain department", "regions of france"]	0.058095827385029865
+["communes of the ain department", "rh\u00f4ne-alpes"]	0.058085610271364475
+["communes of the ain department", "departments of france"]	0.058085610271364475
+["communes of the ain department", "ain"]	0.058052170269580775
+["communes of the ain department", "communes of france"]	0.058047924196369186
+["dolj county", "commune in romania"]	0.05802775655716839
+["list of cities in oklahoma", "city"]	0.0579238956655615
+["communes of the vaucluse department", "provence-alpes-c\u00f4te d'azur"]	0.057616848241187714
+["communes of the vaucluse department", "vaucluse"]	0.057538800872721174
+["communes of the vaucluse department", "communes of france"]	0.05724259674418172
+["communes of the alpes-maritimes department", "france"]	0.05581703022489237
+["communes of the alpes-maritimes department", "alpes-maritimes"]	0.05571150463517779
+["list of cities in idaho", "idaho"]	0.055691581868047596
+["list of cities in arkansas", "arkansas"]	0.05565383798980128
+["list of cities in idaho", "united states"]	0.05556290712398823
+["list of cities in arkansas", "united states"]	0.05546412066860986
+["communes of the alpes-maritimes department", "communes of france"]	0.05543515776665215
+["communes of the alpes-maritimes department", "provence-alpes-c\u00f4te d'azur"]	0.055242930938995516
+["communes of the alpes-maritimes department", "departments of france"]	0.054937585337067586
+["list of cities in arkansas", "city"]	0.05474105771620342
+["list of cities in idaho", "city"]	0.05459466596343939
+["communes of the alpes-maritimes department", "regions of france"]	0.05458997515705517
+["list of cities in kentucky", "kentucky"]	0.05279865626956192
+["arrondissement of largenti\u00e8re", "france"]	0.05277849773205807
+["list of cities in kentucky", "united states"]	0.05249707258658077
+["list of cities in kentucky", "city"]	0.05228747412828866
+["communes of the bouches-du-rh\u00f4ne department", "france"]	0.05216254633009376
+["list of cities in belgium", "belgium"]	0.05199023111351975
+["districts of bangladesh", "bangladesh"]	0.05187881839835329
+["arrondissement of bayeux", "france"]	0.05182100151337212
+["arrondissement of largenti\u00e8re", "departments of france"]	0.051634478352744574
+["list of japan international footballers", "japan national football team"]	0.05157580289719476
+["list of japan international footballers", "association football"]	0.05157580289719476
+["list of japan international footballers", "japan"]	0.05137739343524571
